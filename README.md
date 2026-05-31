@@ -20,14 +20,6 @@ Sou estudante em Análise e Desenvolvimento de Sistemas (ADS), motivada a constr
 ---
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-cardoso-786612235/?skipRedirect=true)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danicardoso0996@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]: https://www.linkedin.com/in/danielly-cardoso-786612235/?skipRedirect=true
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]: danicardoso0996@gmail.com
 
-### 📊 Minhas Estatísticas
-
-Aqui você pode ver um resumo do meu impacto no GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dani-cardoso&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dani-cardoso&layout=compact&theme=radial)
-
----
