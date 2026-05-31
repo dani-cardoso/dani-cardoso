@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Danielly Cardoso
----
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Desenvolvedora FullStack em formação
-📍 Palhoça/Santa Catarina
+
+##💻 Estudante de Análise e Desenvolvimento de Sistemas
+##🚀 Desenvolvedora FullStack em formação
+##📍 Palhoça/Santa Catarina
 ---
 ### 💡Sobre mim
 Sou estudante em Análise e Desenvolvimento de Sistemas (ADS), motivada a construir uma carreira na área de tecnologia. Possuo conhecimentos em informática e Excel, adquiridos por meio de curso no SENAI, com foco em organização de dados, criação de planilhas e uso de fórmulas simples. Tenho expêriencias com criação de páginas web responsivas, suporte e monitoramento de sistemas.
@@ -27,7 +27,7 @@ Sou estudante em Análise e Desenvolvimento de Sistemas (ADS), motivada a constr
 
 Aqui você pode ver um resumo do meu impacto no GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dani-cardoso&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dani-cardoso_AQUI&layout=compact&theme=radial)
 
 ---
