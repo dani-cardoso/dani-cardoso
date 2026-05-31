@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Danielly Cardoso
+---
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Desenvolvedora FullStack em formação
+📍 Palhoça/Santa Catarina
+---
+### 💡Sobre mim
+Sou estudante em Análise e Desenvolvimento de Sistemas (ADS), motivada a construir uma carreira na área de tecnologia. Possuo conhecimentos em informática e Excel, adquiridos por meio de curso no SENAI, com foco em organização de dados, criação de planilhas e uso de fórmulas simples. Tenho expêriencias com criação de páginas web responsivas, suporte e monitoramento de sistemas.
+---
 
-<!--
-**dani-cardoso/dani-cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️Tecnologias
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+---
+### 📫 Como me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-cardoso-786612235/?skipRedirect=true)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danicardoso0996@gmail.com)
+
+### 📊 Minhas Estatísticas
+
+Aqui você pode ver um resumo do meu impacto no GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial)
+
+---
