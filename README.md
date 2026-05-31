@@ -19,6 +19,6 @@ Sou estudante em Análise e Desenvolvimento de Sistemas (ADS), motivada a constr
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ---
 ### 📫 Como me encontrar
-https://www.linkedin.com/in/danielly-cardoso-786612235
-danicardoso0996@gmail.com
+## Linkedin: https://www.linkedin.com/in/danielly-cardoso-786612235
+## E-mail: danicardoso0996@gmail.com
 
