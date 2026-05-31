@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Danielly Cardoso
 
-##💻 Estudante de Análise e Desenvolvimento de Sistemas
-##🚀 Desenvolvedora FullStack em formação
+## 💻 Estudante de Análise e Desenvolvimento de Sistemas
+## 🚀 Desenvolvedora FullStack em formação
 ##📍 Palhoça/Santa Catarina
 ---
 ### 💡Sobre mim
